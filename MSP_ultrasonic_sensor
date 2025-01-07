@@ -1,5 +1,9 @@
 /**
- * Lab 6
+ * Ultrasonic reads distance - converts between in and cm
+ * Distance is displayed on onboard LCD display
+ * Buzzer tempo is determined by distance
+ * Notes: LCD files are separate
+ * Last modified: Oct 2024
  */
 
 #include <msp430.h>
